@@ -374,25 +374,25 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 80%;
+    width: 100%;
 }
 .skills-content .right .css::before{
-    width: 60%;
+    width: 100%;
 }
 .skills-content .right .js::before{
-    width: 50%;
+    width: 100%;
 }
 .skills-content .right .C::before{
-    width: 70%;
+    width: 100%;
 }
 .skills-content .right .Node-JS::before{
-    width: 30%;
+    width: 100%;
 }
 .skills-content .right .Java::before{
-    width: 50%;
+    width: 100%;
 }
 .skills-content .right .Digital-Marketing::before{
-    width: 20%;
+    width: 100%;
 }
 .skills-content .right 
 .Digital-Marketing span{
